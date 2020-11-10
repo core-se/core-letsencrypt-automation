@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 env:
-  ResourceGroup: core-letsencrypt-automation
+  ResourceGroup: core-LE-automation
 jobs:
   build:
     runs-on: ubuntu-latest
