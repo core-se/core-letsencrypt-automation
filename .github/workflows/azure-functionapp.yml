@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 env:
-  ResourceGroup: core-LE-automation
+  ResourceGroup: core-le-automation
 jobs:
   build:
     runs-on: ubuntu-latest
